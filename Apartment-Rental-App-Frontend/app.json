@@ -1,0 +1,7 @@
+{
+  "name": "voice-assistant-app",
+  "slug": "voice-assistant-app",
+  "plugins": [
+    "expo-font"
+  ]
+}
